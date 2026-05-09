@@ -9,6 +9,15 @@ if (condition) {
 }
 */
 
+// structure
+/*if(condition){
+execute code if condition above is true
+}
+else{
+    execute code if the condition is false
+}
+*/
+
 if(13 < 100){
     console.log('I have a smaller value');
 }
